@@ -1,4 +1,7 @@
 ## My Portfolio
+<p>See my portfolio her
+<a href="https://singular-pasca-8665d8.netlify.app/">Akumbom Wesley</a>
+</p>
 
 <h2 align="center">
   <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
