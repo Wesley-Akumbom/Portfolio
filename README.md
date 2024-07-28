@@ -15,6 +15,6 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-<p>See my portfolio her
+<p>See my portfolio here
 <a href="https://singular-pasca-8665d8.netlify.app/">Akumbom Wesley</a>
 </p>
